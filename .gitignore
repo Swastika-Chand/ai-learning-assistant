@@ -35,3 +35,8 @@ frontend/dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local test files
+backend/temp_image.png
+backend/test_dbms.pdf
+backend/test_os.png
