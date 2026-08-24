@@ -49,31 +49,31 @@ This helps the system:
 
 Upload PDFs and images or import YouTube lectures into a workspace.
 
-![Workspace](screenshots/workspace.png)
+![Workspace](screenshots/workspace.jpeg)
 
 ### AI-Generated Summary
 
 Generate concise summaries from the selected learning source.
 
-![Summary](screenshots/summary.png)
+![Summary](screenshots/summary.jpeg)
 
 ### Interactive Quiz
 
 Generate and attempt multiple-choice questions based on the learning material.
 
-![Quiz](screenshots/quiz.png)
+![Quiz](screenshots/quiz.jpeg)
 
 ### AI Q&A
 
 Ask questions about the selected learning source and receive context-aware answers.
 
-![Q&A](screenshots/qa.png)
+![Q&A](screenshots/qa.jpeg)
 
 ### Interactive Flashcards
 
 Review important concepts using automatically generated flashcards.
 
-![Flashcards](screenshots/flashcard.png)
+![Flashcards](screenshots/flashcard.jpeg)
 
 ---
 
