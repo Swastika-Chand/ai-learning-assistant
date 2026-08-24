@@ -43,6 +43,40 @@ This helps the system:
 
 ---
 
+## Screenshots
+
+### Workspace
+
+Upload PDFs and images or import YouTube lectures into a workspace.
+
+![Workspace](screenshots/workspace.png)
+
+### AI-Generated Summary
+
+Generate concise summaries from the selected learning source.
+
+![Summary](screenshots/summary.png)
+
+### Interactive Quiz
+
+Generate and attempt multiple-choice questions based on the learning material.
+
+![Quiz](screenshots/quiz.png)
+
+### AI Q&A
+
+Ask questions about the selected learning source and receive context-aware answers.
+
+![Q&A](screenshots/qa.png)
+
+### Interactive Flashcards
+
+Review important concepts using automatically generated flashcards.
+
+![Flashcards](screenshots/flashcard.png)
+
+---
+
 #  System Architecture
 
 ```text
