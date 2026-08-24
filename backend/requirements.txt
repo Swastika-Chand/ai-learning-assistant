@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+google-genai
+easyocr
+PyMuPDF
+sentence-transformers
+faiss-cpu
+yt-dlp
+youtube-transcript-api
+langchain-text-splitters
+numpy
